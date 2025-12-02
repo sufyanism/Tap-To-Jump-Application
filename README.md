@@ -32,10 +32,12 @@ assets/
 
 ## 🧰 Requirements
 Install Flutter:
-https://flutter.dev/docs/get-started/install
+```https://flutter.dev/docs/get-started/install```
 
 ### Add Flame Engine:
+```sh
 flutter pub add flame
+```
 
 ## ▶️ Running the Game
 1. Clone the project
@@ -74,6 +76,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!**
+
 
 
 
